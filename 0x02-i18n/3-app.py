@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """basic babel setup"""
 from flask import Flask, render_template, request
 from flask_babel import Babel
